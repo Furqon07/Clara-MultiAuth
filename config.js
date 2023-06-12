@@ -28,17 +28,17 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['6285760451683', true],
-['6281398274790', 'Dims', true],
-['6285760451683', 'Zeltoria', true]
+['6285780318177', true],
+['6285780318177', 'Ditzyy', true],
+['6285780318177', 'Ditzyy', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069306'
-global.nomorown = '6285760451683'
-global.nomorown1 = '6285760451683'
-global.nomorown2 = '6285760451683'
-global.nomorwa = '6285760451683'
+global.nomorbot = '6285720946230'
+global.nomorown = '6285780318177'
+global.nomorown1 = '6285780318177'
+global.nomorown2 = '6285780318177'
+global.nomorwa = '6285720946230'
 
 
 global.readMore = readMore
